@@ -8,7 +8,7 @@
 # Regiones de ngrok
 # Código          Lugar
 #-----------      ---------------------------
-# ap	          Asia / Pacífico (Singapore)
+# ap	          Asia / Pacífico (Singapore)4
 # au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
 # in		      India (Mumbai)
